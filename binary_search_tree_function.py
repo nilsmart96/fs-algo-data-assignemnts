@@ -10,5 +10,7 @@ def binary_search_tree(list_, query_):
         match = list_[middle]["name"]
 
     #git test JO
+    #git test2 JO
+
 
     return match
